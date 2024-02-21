@@ -1,5 +1,16 @@
-.odd { background-color: darksalmon; 
-        font-family: Verdana, DejaVu-sans, sans-serif;
+.odd { 
+    background-color: darksalmon; 
+    font-family: Verdana, DejaVu-sans, sans-serif;
 }
-.odd.cooler{font-size: 24px;
+
+.odd.cooler {
+    font-size: 24px;
+}
+
+#D1 {
+    color: blue; font-size: 36px;
+}
+
+#D2 {
+    background-color: rgb(173, 241, 105); font-size: 24px; font-weight: bold;
 }
